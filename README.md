@@ -6,6 +6,4 @@ A program that simulates pomodoro technique, custom times, fonts, themes and sou
 >All sound assets taken from https://freesound.org
 
 
-# Link to itch-io page:
-
->https://atitb.itch.io/pomodorotechnique
+# [Pomodorro](https://atitb.itch.io/pomodorotechnique)
